@@ -1,0 +1,25 @@
+current directory: /mnt/d/Files/$ Website/zander-m.github.io/vender/bundle/gems/ffi-1.9.23/ext/ffi_c
+/usr/bin/ruby2.3 -r ./siteconf20180227-192-1nbgiek.rb extconf.rb
+checking for ffi.h... no
+checking for ffi.h in /usr/local/include,/usr/include/ffi... no
+checking for shlwapi.h... no
+checking for rb_thread_blocking_region()... no
+checking for rb_thread_call_with_gvl()... yes
+checking for rb_thread_call_without_gvl()... yes
+creating extconf.h
+creating Makefile
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /mnt/d/Files/$ Website/zander-m.github.io/vender/bundle/extensions/x86_64-linux/2.3.0/ffi-1.9.23/mkmf.log
+
+current directory: /mnt/d/Files/$ Website/zander-m.github.io/vender/bundle/gems/ffi-1.9.23/ext/ffi_c
+make "DESTDIR=" clean
+
+current directory: /mnt/d/Files/$ Website/zander-m.github.io/vender/bundle/gems/ffi-1.9.23/ext/ffi_c
+make "DESTDIR="
+/bin/sh: 1: Syntax error: Unterminated quoted string
+libffi.mk:6: recipe for target '"/mnt/d/Files/$' failed
+make: *** ["/mnt/d/Files/$] Error 2
+
+make failed, exit code 2

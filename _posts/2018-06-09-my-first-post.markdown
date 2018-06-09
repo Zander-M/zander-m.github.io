@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging like a hacker
+title: my first post 
 ---
 
 # This is my first post with jekyll
